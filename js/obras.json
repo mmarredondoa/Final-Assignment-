@@ -1,0 +1,50 @@
+[
+  {
+    "numero": "01",
+    "titulo": "Pasaje",
+    "artista": "Lucía Ferrante",
+    "tecnica": "Instalación lumínica",
+    "descripcion": "Una puerta de luz cálida en el fondo de una sala oscura. Nunca se llega del todo: cuanto más te acercás, más se aleja el borde.",
+    "imagen": "img/obra-pasaje.svg"
+  },
+  {
+    "numero": "02",
+    "titulo": "Lo que queda del otro lado",
+    "artista": "Tomás Iribarne",
+    "tecnica": "Fotografía",
+    "descripcion": "Una serie de horizontes cortados a la mitad. Lo que vemos es apenas lo que asoma antes de desaparecer.",
+    "imagen": "img/obra-horizonte.svg"
+  },
+  {
+    "numero": "03",
+    "titulo": "Vestíbulo",
+    "artista": "Colectivo Bisagra",
+    "tecnica": "Instalación sonora",
+    "descripcion": "Ondas de sonido grabadas en pasillos, halls y salas de espera. El ruido de los lugares donde nadie se queda.",
+    "imagen": "img/obra-vestibulo.svg"
+  },
+  {
+    "numero": "04",
+    "titulo": "Marea baja",
+    "artista": "Abril Quiroga",
+    "tecnica": "Videoinstalación",
+    "descripcion": "La orilla filmada durante seis horas: el instante exacto en que el agua deja de ser agua y empieza a ser arena.",
+    "imagen": "img/obra-marea.svg"
+  },
+  {
+    "numero": "05",
+    "titulo": "Cerradura",
+    "artista": "Martín Ledesma",
+    "tecnica": "Escultura",
+    "descripcion": "Una pieza de hierro a escala humana para espiar del otro lado. El público se vuelve parte de la obra al mirar.",
+    "imagen": "img/obra-cerradura.svg"
+  },
+  {
+    "numero": "06",
+    "titulo": "Respirar el borde",
+    "artista": "Sol Benítez",
+    "tecnica": "Performance",
+    "descripcion": "Dos cuerpos que se acercan sin tocarse durante una hora. La obra sucede en el espacio que queda entre ellos.",
+    "imagen": "img/obra-respirar.svg"
+  }
+]

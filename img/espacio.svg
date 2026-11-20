@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560">
+<defs><linearGradient id="p" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffb23f" stop-opacity=".5"/><stop offset="1" stop-color="#ffb23f" stop-opacity="0"/></linearGradient></defs>
+<rect width="800" height="560" fill="#171513"/>
+<polygon points="0,0 800,0 560,170 240,170" fill="#1f1c19"/>
+<polygon points="0,560 800,560 560,390 240,390" fill="#110f0e"/>
+<polygon points="0,0 240,170 240,390 0,560" fill="#1b1916"/>
+<polygon points="800,0 560,170 560,390 800,560" fill="#1b1916"/>
+<rect x="240" y="170" width="320" height="220" fill="#221e1b" stroke="#2f2b27" stroke-width="2"/>
+<rect x="365" y="215" width="70" height="175" fill="#ffc861"/>
+<polygon points="365,390 435,390 520,560 280,560" fill="url(#p)"/>
+<polygon points="60,110 170,175 170,330 60,375" fill="#f1ece3" opacity=".85"/>
+<polygon points="640,175 740,115 740,370 640,330" fill="#ffb23f" opacity=".7"/>
+<polygon points="275,205 330,205 330,300 275,300" fill="#f1ece3" opacity=".25"/>
+<polygon points="470,205 525,205 525,300 470,300" fill="#f1ece3" opacity=".25"/>
+<g stroke="#2f2b27" stroke-width="1.5"><line x1="240" y1="390" x2="0" y2="560"/><line x1="560" y1="390" x2="800" y2="560"/><line x1="0" y1="470" x2="800" y2="470" opacity=".5"/></g>
+<rect x="388" y="455" width="24" height="60" rx="12" fill="#0d0c0b"/><circle cx="400" cy="440" r="12" fill="#0d0c0b"/>
+</svg>
